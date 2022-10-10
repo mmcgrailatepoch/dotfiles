@@ -1,4 +1,4 @@
-" Marty's custom vim settings
+" Custom vim settings
 " started: 2015-07-24
 
 " Using vim-plug Plugin Manager: https://github.com/junegunn/vim-plug
